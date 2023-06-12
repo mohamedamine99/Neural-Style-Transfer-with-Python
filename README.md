@@ -14,7 +14,7 @@ Welcome to the Neural Style Transfer repository! This project provides a powerfu
 ## Todo List
 
 - [x] Task 1: Complete a first working example
-- [ ] Task 2: Develop an OOP approach
+- [ ] Task 2: Implement Object-Oriented Programming (OOP) Paradigm
 - [ ] Task 3: Refactor code for better readability
 - [ ] Task 4: Write documentation
 
