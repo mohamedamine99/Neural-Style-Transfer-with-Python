@@ -1,11 +1,14 @@
 # Neural Style Transfer with Python, TensorFlow and Keras 
 
-<div align="center">
-  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/Cat03.jpg" alt="Image 1" width="200" />
+<div align="center" style="margin-bottom: 500px;">
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/Cat03.jpg" alt="Image 1" width="200" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/style%20imgs/abstract%20mosaic%20art%20style.PNG" alt="Image 2" width="200" />
-  <img src="" alt="Image 3" width="200" />
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/results/cat%20mosaic%20style.png" alt="Image 3" width="200" />
 
+</div>
+                                                    
 Welcome to the Neural Style Transfer repository! This project provides a powerful and user-friendly implementation of neural style transfer using Python and TensorFlow-Keras. Style transfer is a technique that allows you to apply the artistic style of one image (the "style image") to the content of another image (the "content image"). The result is a new image that combines the content of one image with the style of another, creating visually appealing and unique outputs.
 
 ## Todo List
