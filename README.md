@@ -8,6 +8,7 @@
   <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/results/cat%20mosaic%20style.png" alt="Image 3" width="200" />
 
 </div>
+
                                                     
 Welcome to the Neural Style Transfer repository! This project provides a powerful and user-friendly implementation of neural style transfer using Python and TensorFlow-Keras. Style transfer is a technique that allows you to apply the artistic style of one image (the "style image") to the content of another image (the "content image"). The result is a new image that combines the content of one image with the style of another, creating visually appealing and unique outputs.
 
@@ -28,3 +29,41 @@ We understand that developers have different preferences and project requirement
 - **Object-Oriented Programming (OOP) Approach**: The OOP implementation offers a more modular and extensible code structure. It is well-suited for developers who wish to build upon the style transfer functionality and create more complex applications or experiments.
 
 Both approaches provide comparable results, so you can choose the one that aligns best with your coding style and project requirements.
+
+## Results visualization
+
+<div align="center" style="margin-bottom: 500px;">
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/Cat03.jpg" alt="Image 1" width="200" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/style%20imgs/abstract%20mosaic%20art%20style.PNG" alt="Image 2" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/results/cat%20mosaic%20style.png" alt="Image 3" width="200" />
+
+</div>
+
+<div align="center" style="margin-bottom: 500px;">
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/zitouna.PNG" alt="Image 1" width="200" height="200" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/style%20imgs/starry%20night.jpg" alt="Image 2" width="200" height="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/results/zitouna%20starry%20night%202.PNG" alt="Image 3" width="200" />
+
+</div>
+
+<div align="center" style="margin-bottom: 500px;">
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/Taj%20Mahal.jpg" alt="Image 1" width="200" height="200" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/style%20imgs/arabic%20calligraphy%20art%20style.PNG" alt="Image 2" width="200" height="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/results/taj%20mahal%20x%20arabic%20calligraphy.PNG" alt="Image 3" width="200" />
+
+</div>
+
+<div align="center" style="margin-bottom: 500px;">
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/eye.jpg" alt="Image 1" width="200" height="200" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/style%20imgs/abstract%20art%20style%202.PNG" alt="Image 2" width="200" height="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/results/eye%20x%20abtract%20art%20style%202.PNG" alt="Image 3" width="200" />
+
+</div>
