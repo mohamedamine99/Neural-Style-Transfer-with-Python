@@ -9,6 +9,14 @@
 
 </div>
 
+<div align="center" style="margin-bottom: 500px;">
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/content%20imgs/Taj%20Mahal.jpg" alt="Image 1" width="200" height="200"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/style%20imgs/arabic%20calligraphy%20art%20style.PNG" alt="Image 2" width="200" height="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python/blob/main/GIFs/taj%20mahal.gif" alt="Image 3" width="200" height="200" />
+</div>
+
                                                     
 Welcome to the Neural Style Transfer repository! This project provides a powerful and user-friendly implementation of neural style transfer using Python and TensorFlow-Keras. Style transfer is a technique that allows you to apply the artistic style of one image (the "style image") to the content of another image (the "content image"). The result is a new image that combines the content of one image with the style of another, creating visually appealing and unique outputs.
 
